@@ -41,7 +41,9 @@ It'd be necessary to show more than one code.
 
 ## Section 6: Filename
 Linux: filename_for_linux
+
 MacOS: filename_for_macOS
+
 Windows: filename_for_windows
 
 ## Section 7: Contact
